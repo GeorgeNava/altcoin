@@ -1,3 +1,3 @@
 AltCoin (ALT)
 
-Blah, blah, blah.
+This is a litecoin/smallcoin/foocoin clone for testing crypto currencies.
