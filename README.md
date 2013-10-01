@@ -1,3 +1,3 @@
-FooCoin (FOO)
+AltCoin (ALT)
 
 Blah, blah, blah.
